@@ -42,11 +42,6 @@ python last.py
 - `pulp` (for LP optimization)
 - `openpyxl` (for Excel file handling)
 
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## License
 
